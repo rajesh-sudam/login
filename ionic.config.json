@@ -1,0 +1,8 @@
+{
+  "name": "Login",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "87265c0b"
+}
